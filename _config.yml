@@ -30,8 +30,8 @@ collections:
     permalink: /:path/
 
 # Site title and description 
-title: "analytics.usa.gov | The US government's web traffic."
-description: "Official data on web traffic to hundreds of US federal government websites. Published by the Digital Analytics Program."
+title: "analytics.usajobs.gov | A Window into USAJOBS's Web Traffic."
+description: "Providing data and insights into web traffic to USAJOBS.gov Published by the USAJOBS Data & Analytics Team."
 
 # Site's own URL
 url: https://analytics.usa.gov 
