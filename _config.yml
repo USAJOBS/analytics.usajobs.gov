@@ -42,6 +42,9 @@ dropdown_title: All Participating Websites
 # Default data url
 data_url: https://analytics.usa.gov/data/live
 
+# Baseurl
+baseurl: /analytics.usajobs.gov
+
 # GitHub information
 org_name: GSA
 repo_name: analytics.usa.gov
