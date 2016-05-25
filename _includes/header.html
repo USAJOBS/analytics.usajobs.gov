@@ -11,7 +11,7 @@
         <div class="inner clearfix">
             <h1>
               <a href="/" class="external-link">
-                <strong>analytics</strong>.usa.gov
+                <strong>analytics</strong>.usajobs.gov
               </a>
             </h1>
             <ul class="links">
@@ -21,7 +21,7 @@
             {% if site.agencies.size > 0 %}
             <div class="agency-selector-wrap">
               <form>
-                <label for="agency-selector">Select an agency</label>
+                <label for="agency-selector">Select an agency to filter results</label>
                 <select name="agency-selector" id="agency-selector" title="Agency Selection Dropdown">
                   <option value="{{site.baseurl}}/">{{site.dropdown_title}}</option>
                   {% for agency in site.agencies %}
